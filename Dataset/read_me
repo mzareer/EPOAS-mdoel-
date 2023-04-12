@@ -1,0 +1,10 @@
+This Folder contains the dataset collected for the month of January, February, March, and April 2020 on the Topic of COVID-19 
+in the Geographical area of the United states and Canada. 
+
+The Data contains information about each tweet issued on this topic and detailed information on the person behind the tweet. 
+
+The data is divided into two parts due to equipment constrains 
+
+part 1: contins the tweets for the four months. 
+part 2: contains the underlying network for the cleaned data, which is further minimized to agents who update their opinions 30% of the discussion
+duration. 
