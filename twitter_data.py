@@ -1,3 +1,5 @@
+# this code is used to scrapp twitter information based on specific key works and a geographical location 
+
 import tweepy
 import time
 import numpy as np
