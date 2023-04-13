@@ -13,11 +13,12 @@ import xlsxwriter
 
 class search_twitter:
 
+    # the code will note work without the twitter API authentication keys 
     twitter_keys = {
-        'consumerKey':          'GsCb2SISXeHVR7by32eZ9APHg',
-        'consumerSecret':       'eoMI0yOSrbjOfQziOL1eaDO9kVZMfM3svyv8OJpgibRLwGWfl2',
-        'accessToken':          '779952380-OTg6BByK0TtOBWjVfL2dx4eG7F0c6TX0RgBl7kpq',
-        'accessTokenSecret':    'rmQSOO73zH0xgLfWsydhHfkPhhmLlymJkRvqdBiOu1gPE',
+        'consumerKey':          '', 
+        'consumerSecret':       '',
+        'accessToken':          '',
+        'accessTokenSecret':    '',
     }
 
     def __init__(self, keys_dict=twitter_keys):
